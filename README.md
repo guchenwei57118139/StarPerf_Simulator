@@ -94,6 +94,12 @@ As emerging mega-constellations are still evolving rapidly and constellations su
 Currently this project has not be ''thoroughly''' tested. You are more than welcome to build any test cases for this project.
 
 
+### Update Beamscheduling by Chenwei
+
+If you want to simulate the capacity, beamscheduling of the satellite networks, you can run 'Beamscheduling.py'
+
+
+
 # License
 
 The StarPerf project is under [BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause) license.
