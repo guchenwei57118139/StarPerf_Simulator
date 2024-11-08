@@ -96,7 +96,7 @@ Currently this project has not be ''thoroughly''' tested. You are more than welc
 
 ### Update Beamscheduling by Chenwei
 
-If you want to simulate the capacity, beamscheduling of the satellite networks, you can run 'Beamscheduling.py'
+If you want to simulate the capacity, beamscheduling of the satellite networks, you can run 'BeamScheduling.py'
 
 
 
